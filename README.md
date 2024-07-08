@@ -1,4 +1,4 @@
-### Youssouf Roki-dine - Data Scientist 
+### Data Scientist / Data Analyste / Statisticien / AI/ML Engineer 
 
 Bonjour, je m' appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML passionné avec plus de trois ans d'expérience dans le domaine des données. Je me spécialise dans l'apprentissage automatique, l'apprentissage profond, le traitement du langage naturel et l'IA générative utilisant de grands modèles de langage (LLM). Je maîtrise le développement de modèles statistiques avancés et de solutions basées sur les données pour améliorer les opérations commerciales, et je suis compétent dans un large éventail de technologies, notamment Python, R, SQL, SAS et les plateformes Big Data.
 
