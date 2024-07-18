@@ -7,7 +7,7 @@ Bonjour, je m'appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML 
 👨‍💻 Je suis actuellement ouvert aux opportunités où je peux contribuer et développer davantage mes compétences en science des données et en IA. Mes projets récents impliquent le déploiement de LLM open source, le réglage fin des modèles et le développement dans les Devops avancés à l'aide de technologies telles que Python, R, C/C++, TensorFlow, PyTorch et diverses plateformes cloud (AWS, GCP, Azure).
 
 ## 🚀 Expérience Professionnelle
-### 📊 Data Scientist  Société Vauché, Depuis Juin 2024
+### 📊 (CDD) Data Scientist  Société Vauché, Depuis Juin 2024
 - Mise en œuvre opérationnelle de solutions d'IA (ChatGPT et Gemini 1.5) pour l'amélioration continue des processus clés de l'entreprise.
 
 - Automatisation de tâches dans le bureau d'études (génération de rapports techniques, modélisation 3D) grâce à Gemini 1.5, améliorant l'efficacité et la rapidité de conception.
