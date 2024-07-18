@@ -54,11 +54,16 @@ Python
 ### **Application de Gestion de Réservations (Java , SQL) :**
 -  Conception et développement d'une application de gestion des réservations de salles informatiques,
    utilisant les langages de programmation Java et les frameworks Swing/AWT pour l'interface
-   graphique, avec intégration d'une base de données pour la sauvegarde des données.s.
+   graphique, avec intégration d'une base de données pour la sauvegarde des données (SQL).
 ### **Optimisation de Transport Logistique (AMPL) :**
 - Modélisation d’un problème de transport d’une entreprise fictive basée en Angleterre et qui doit trouver
    le meilleur chemin pour répondre à la demande de ses clients à partir de ses usines et dépôts aux
    quantités de production et de stockage limités. (Développer en AMPL)
+- Modélisation Mathématique : Expertise dans l'utilisation d'AMPL pour modéliser des problèmes d'optimisation complexes.
+- Recherche Opérationnelle : Application de méthodes avancées pour résoudre des problèmes de planification industrielle.
+- Analyse de Données : Capacité à interpréter les données pour optimiser les processus de production et de maintenance.
+- Gestion de Projets : Compétences en gestion de projets impliquant plusieurs variables et contraintes.
+- Optimisation des Ressources : Expertise en optimisation des ressources pour maximiser les performances opérationnelles.
 ### **Classification de Logiciels Malveillants (Python, R) :**
 - L’objectif de ce projet consiste à développer un classifieur en utilisant une base de données de 4465
   individus évalués selon 241 variables. Au cours de cette étude, nous évaluerons et comparerons les
