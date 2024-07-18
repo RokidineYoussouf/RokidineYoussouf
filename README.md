@@ -33,9 +33,11 @@ Intervalles de confiance
 Python
 
 ### Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
-- Construction d'un modèle de classification pour distinguer l'eau potable de l'eau non potable.
-- Comparaison des performances de différents algorithmes de Machine Learning.
-
+- Construction d'un modèle de classification pour distinguer l'eau potable de l'eau non potable à
+  partir d'une base de données de 46 999 individus et 45 variables. (Développer en Python et R)
+  Mise en œuvre de différents algorithmes de Machine Learning. (Régression Logistique, Forêt
+  Aléatoire, SVM) et comparaison de leurs performances via des courbes ROC.
+  Collaboration avec une équipe de chercheurs pour la rédaction d'un rapport scientifique.
 ### Enseignant en Mathématiques, Aix Marseille Université, Septembre 2020 - Juin 2021
 - Cours de soutien en mathématiques à domicile auprès de collégiens et de lycéens.
 
@@ -49,10 +51,44 @@ Python
 
 ## 🔨 Projets
 
-- **Application de Gestion de Réservations (Java) :** Conception d'une application de gestion de réservation de salles informatiques avec intégration d'une base de données.
-- **Optimisation de Transport Logistique (AMPL) :** Modélisation et optimisation des trajets d'une entreprise pour répondre à la demande des clients en tenant compte des contraintes de production et de stockage.
-- **Classification de Logiciels Malveillants (Python, R) :** Développement d'un classifieur utilisant divers algorithmes de Machine Learning pour distinguer les logiciels malveillants des logiciels sains.
+- **Application de Gestion de Réservations (Java , SQL) :**
+-  Conception et développement d'une application de gestion des réservations de salles informatiques,
+   utilisant les langages de programmation Java et les frameworks Swing/AWT pour l'interface
+   graphique, avec intégration d'une base de données pour la sauvegarde des données.s.
+- **Optimisation de Transport Logistique (AMPL) :**
+-  Modélisation d’un problème de transport d’une entreprise fictive basée en Angleterre et qui doit trouver
+   le meilleur chemin pour répondre à la demande de ses clients à partir de ses usines et dépôts aux
+   quantités de production et de stockage limités. (Développer en AMPL)
+- **Classification de Logiciels Malveillants (Python, R) :**
+- L’objectif de ce projet consiste à développer un classifieur en utilisant une base de données de 4465
+  individus évalués selon 241 variables. Au cours de cette étude, nous évaluerons et comparerons les
+  performances de divers algorithmes de Machine Learning (Développer en Python et R)
+- Analyse Statistique Préliminaire:
 
+Nettoyage des données (suppression des valeurs manquantes et des doublons).
+Analyse des statistiques descriptives et des valeurs extrêmes.
+Identification des variables influentes et corrélations entre les variables.
+Mise en Œuvre des Algorithmes de Classification
+
+- Régression Logistique :
+K-plus Proches Voisins (KPP)
+Arbres Décisionnels et Forêts Aléatoires
+Support Vector Machine (SVM)
+Techniques de Bagging et Boosting
+- Optimisation et Validation :
+Utilisation de GridSearchCV pour optimiser les hyperparamètres.
+Validation croisée pour évaluer la robustesse des modèles.
+Comparaison des performances via les matrices de confusion et les courbes ROC.
+- Rééquilibrage des Classes :
+Application des méthodes NearMiss et SMOTENC pour traiter le déséquilibre des classes.
+Évaluation des performances des modèles sur les données rééquilibrées.
+- Interprétation des Résultats :
+Calcul des odds-ratios pour la régression logistique.
+Visualisation des arbres de décision et des variables influentes.
+- Résultats Clés : 
+Les modèles de SVM et de forêts aléatoires ont obtenu les meilleures performances avec des erreurs de prédiction minimales et des AUC proches de 1.
+La régression logistique a permis une interprétation claire des variables influentes, bien que ses performances soient légèrement inférieures.
+Les techniques de rééquilibrage ont amélioré la robustesse des modèles sans compromettre la précision.  
 ## 🎓 Formation
 
 - **Master Ingénierie Statistiques Numériques (Data Science), Université de Lille, Depuis Septembre 2023**
