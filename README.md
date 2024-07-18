@@ -16,7 +16,7 @@ Bonjour, je m'appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML 
 
 - Contribution à la mise en place d'une culture data-driven en interne en formant les équipes aux outils d'IA et en démontrant leur valeur ajoutée.
 
-### Stagiaire Statisticien, Société Vauché, Février 2024 - Juin 2024
+### 📊 Stagiaire Statisticien, Société Vauché, Février 2024 - Juin 2024
 ##### Optimisation des Plans de Sondage : 
 Conception et optimisation des plans de sondage pour estimer la qualité du tri des déchets recyclables tout en respectant les contraintes métier.
 ##### Tests de Performance et Échantillonnage :
@@ -33,7 +33,7 @@ Développement de scripts et d'outils en Python pour l'analyse des données et l
 ###### Intervalles de confiance
 ###### Python
 
-### Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
+### 📊 Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
 - Construction d'un modèle de classification pour distinguer l'eau potable de l'eau non potable à
   partir d'une base de données de 46 999 individus et 45 variables. (Développer en Python et R)
   Mise en œuvre de différents algorithmes de Machine Learning. (Régression Logistique, Forêt
