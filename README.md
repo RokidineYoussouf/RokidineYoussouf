@@ -95,6 +95,15 @@ Les techniques de rééquilibrage ont amélioré la robustesse des modèles sans
 ## 🎓 Formation
 
 - **Master Ingénierie Statistiques Numériques (Data Science), Université de Lille, Depuis Septembre 2023**
+- Machine learning :
+- Méthodes d’apprentissage :
+Régression logistique, Forets aléatoires,SVM et Réseaux de Neurones
+- Apprentissage autonome :
+Qlearning, Actor-Critic, Réseaux de Neurones, Pytorch
+- Biostatistiques :
+Analyse de données omiques , censurées et spatiales en santé
+- Outils informatiques pour les big data:
+Programmation avancée, base de données et web, Virtualisation et conteneurisation (Docker)
 - **Licence de Mathématiques, Aix-Marseille Université, 2020 - 2021**
 - **Licence de Mathématiques Physique et Informatique, Université Cheikh Anta Diop de Dakar, 2017 - 2020**
 
