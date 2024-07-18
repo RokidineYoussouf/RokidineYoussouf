@@ -52,11 +52,11 @@ Développement de scripts et d'outils en Python pour l'analyse des données et l
 
 ## 🔨 Projets
 
-### **Application de Gestion de Réservations (Java , SQL) :**
+### ** ✨Application de Gestion de Réservations (Java , SQL) :**
 -  Conception et développement d'une application de gestion des réservations de salles informatiques,
    utilisant les langages de programmation Java et les frameworks Swing/AWT pour l'interface
    graphique, avec intégration d'une base de données pour la sauvegarde des données (SQL).
-### **Optimisation de Transport Logistique (AMPL) :**
+### ** ✨Optimisation de Transport Logistique (AMPL) :**
 - Modélisation d’un problème de transport d’une entreprise fictive basée en Angleterre et qui doit trouver
    le meilleur chemin pour répondre à la demande de ses clients à partir de ses usines et dépôts aux
    quantités de production et de stockage limités. (Développer en AMPL)
@@ -70,7 +70,7 @@ Capacité à interpréter les données pour optimiser les processus de productio
 Compétences en gestion de projets impliquant plusieurs variables et contraintes.
 ##### Optimisation des Ressources :
 Expertise en optimisation des ressources pour maximiser les performances opérationnelles.
-### **Classification de Logiciels Malveillants (Python, R) :**
+### ** ✨Classification de Logiciels Malveillants (Python, R) :**
 - L’objectif de ce projet consiste à développer un classifieur en utilisant une base de données de 4465
   individus évalués selon 241 variables. Au cours de cette étude, nous évaluerons et comparerons les
   performances de divers algorithmes de Machine Learning (Développer en Python et R)
@@ -99,7 +99,7 @@ Les modèles de SVM et de forêts aléatoires ont obtenu les meilleures performa
 La régression logistique a permis une interprétation claire des variables influentes, bien que ses performances soient légèrement inférieures.
 Les techniques de rééquilibrage ont amélioré la robustesse des modèles sans compromettre la précision.  
 ## 🎓 Formation
-### Master Ingénierie Statistiques Numériques (Data Science), Université de Lille, Depuis Septembre 2023
+###📚 Master Ingénierie Statistiques Numériques (Data Science), Université de Lille, Depuis Septembre 2023
 ##### Machine learning :
 ##### Méthodes d’apprentissage :
 Régression logistique, Forets aléatoires,SVM et Réseaux de Neurones
@@ -109,13 +109,13 @@ Qlearning, Actor-Critic, Réseaux de Neurones, Pytorch
 Analyse de données omiques , censurées et spatiales en santé
 ##### Outils informatiques pour les big data:
 Programmation avancée, base de données et web, Virtualisation et conteneurisation (Docker)
-### Licence de Mathématiques, Aix-Marseille Université, 2020 - 2021
-### Licence de Mathématiques Physique et Informatique, Université Cheikh Anta Diop de Dakar, 2017 - 2020
-### Baccalauréat Scientifique, Lycée d'Excellence Comores, De septembre 2016 à juillet 2017
+### 📚 Licence de Mathématiques, Aix-Marseille Université, 2020 - 2021
+###  📚 Licence de Mathématiques Physique et Informatique, Université Cheikh Anta Diop de Dakar, 2017 - 2020
+### 📚 Baccalauréat Scientifique, Lycée d'Excellence Comores, De septembre 2016 à juillet 2017
 
 ## 📫 Contact
 
-- **Email :youssouf.rokidine@gmail.com**
+- **✉️ Email :youssouf.rokidine@gmail.com**
 - **LinkedIn : www.linkedin.com/in/youssouf-roki-dine](https://www.linkedin.com/in/youssouf-roki-dine)**
 - **🐱 GitHub : https://github.com/RokidineYoussouf**
 
