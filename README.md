@@ -51,21 +51,19 @@ Python
 
 ## 🔨 Projets
 
-- **Application de Gestion de Réservations (Java , SQL) :**
+-- **Application de Gestion de Réservations (Java , SQL) :**
 -  Conception et développement d'une application de gestion des réservations de salles informatiques,
    utilisant les langages de programmation Java et les frameworks Swing/AWT pour l'interface
    graphique, avec intégration d'une base de données pour la sauvegarde des données.s.
-- **Optimisation de Transport Logistique (AMPL) :**
--  Modélisation d’un problème de transport d’une entreprise fictive basée en Angleterre et qui doit trouver
+-- **Optimisation de Transport Logistique (AMPL) :**
+- Modélisation d’un problème de transport d’une entreprise fictive basée en Angleterre et qui doit trouver
    le meilleur chemin pour répondre à la demande de ses clients à partir de ses usines et dépôts aux
    quantités de production et de stockage limités. (Développer en AMPL)
-- **Classification de Logiciels Malveillants (Python, R) :**
+-- **Classification de Logiciels Malveillants (Python, R) :**
 - L’objectif de ce projet consiste à développer un classifieur en utilisant une base de données de 4465
   individus évalués selon 241 variables. Au cours de cette étude, nous évaluerons et comparerons les
   performances de divers algorithmes de Machine Learning (Développer en Python et R)
-- Analyse Statistique Préliminaire:
-
-Nettoyage des données (suppression des valeurs manquantes et des doublons).
+- Analyse Statistique Préliminaire : Nettoyage des données (suppression des valeurs manquantes et des doublons).
 Analyse des statistiques descriptives et des valeurs extrêmes.
 Identification des variables influentes et corrélations entre les variables.
 Mise en Œuvre des Algorithmes de Classification
