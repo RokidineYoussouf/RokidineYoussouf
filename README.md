@@ -115,8 +115,8 @@ Programmation avancée, base de données et web, Virtualisation et conteneurisat
 
 ## 📫 Contact
 
-- **Email :** youssouf.rokidine@gmail.com
-- **LinkedIn :** [www.linkedin.com/in/youssouf-roki-dine](https://www.linkedin.com/in/youssouf-roki-dine)
+- **Email :**youssouf.rokidine@gmail.com**
+- **LinkedIn :**[www.linkedin.com/in/youssouf-roki-dine](https://www.linkedin.com/in/youssouf-roki-dine)]**
 - 🐱 GitHub : **https://github.com/RokidineYoussouf**
 
 ➡️ Enthousiaste à l'idée de rejoindre une équipe dynamique et de contribuer à des projets stimulants. N'hésitez pas à me contacter ! 😄
