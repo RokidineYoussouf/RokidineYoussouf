@@ -7,10 +7,30 @@ Bonjour, je m'appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML 
 👨‍💻 Je suis actuellement ouvert aux opportunités où je peux contribuer et développer davantage mes compétences en science des données et en IA. Mes projets récents impliquent le déploiement de LLM open source, le réglage fin des modèles et le développement dans les Devops avancés à l'aide de technologies telles que Python, R, C/C++, TensorFlow, PyTorch et diverses plateformes cloud (AWS, GCP, Azure).
 
 ## 🚀 Expérience Professionnelle
+### Data Scientist  Société Vauché, Depuis Juin 2024
+- Mise en œuvre opérationnelle de solutions d'IA (ChatGPT et Gemini 1.5) pour l'amélioration continue des processus clés de l'entreprise.
 
-### Stagiaire Statisticien, Société Vauché, Février 2024 - Juillet 2024
-- Optimisation du plan de sondage pour l'estimation de la qualité de tri des déchets recyclables.
-- Développement d'outils Python pour l'analyse statistique et les simulations.
+- Automatisation de tâches dans le bureau d'études (génération de rapports techniques, modélisation 3D) grâce à Gemini 1.5, améliorant l'efficacité et la rapidité de conception.
+
+- Optimisation des processus d'achats (recherche de fournisseurs, analyse comparative, rédaction de documents) via ChatGPT, générant des gains de temps et une meilleure sélection des partenaires.
+
+- Contribution à la mise en place d'une culture data-driven en interne en formant les équipes aux outils d'IA et en démontrant leur valeur ajoutée.
+
+### Stagiaire Statisticien, Société Vauché, Février 2024 - Juin 2024
+- Optimisation des Plans de Sondage : Conception et optimisation des plans de sondage pour estimer la qualité du tri des déchets recyclables tout en respectant les contraintes métier.
+
+- Tests de Performance et Échantillonnage : Réalisation de tests de performance et développement de méthodes d'échantillonnage pour garantir la précision et la fiabilité des processus de tri.
+
+- Analyse de Données et Méthodes Statistiques : Utilisation de bases de données et application de tests statistiques, simulations et intervalles de confiance pour analyser et améliorer la qualité du tri des déchets.
+
+- Développement en Python : Développement de scripts et d'outils en Python pour l'analyse des données et la simulation afin de soutenir les processus décisionnels.
+
+- Outils et Technologies :
+Bases de données
+Tests statistiques
+Simulations
+Intervalles de confiance
+Python
 
 ### Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
 - Construction d'un modèle de classification pour distinguer l'eau potable de l'eau non potable.
