@@ -26,11 +26,14 @@ Bonjour, je m'appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML 
 - Développement en Python : Développement de scripts et d'outils en Python pour l'analyse des données et la simulation afin de soutenir les processus décisionnels.
 
 - Outils et Technologies :
-  
-Bases de données   
+Bases de données
+
 Tests statistiques
+
 Simulations
+
 Intervalles de confiance
+
 Python
 
 ### Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
