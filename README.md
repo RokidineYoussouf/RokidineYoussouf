@@ -70,7 +70,7 @@ Capacité à interpréter les données pour optimiser les processus de productio
 Compétences en gestion de projets impliquant plusieurs variables et contraintes.
 ##### Optimisation des Ressources :
 Expertise en optimisation des ressources pour maximiser les performances opérationnelles.
-### **✨ Classification de Logiciels Malveillants (Python, R) : **
+### **✨Classification de Logiciels Malveillants (Python, R) :**
 - L’objectif de ce projet consiste à développer un classifieur en utilisant une base de données de 4465
   individus évalués selon 241 variables. Au cours de cette étude, nous évaluerons et comparerons les
   performances de divers algorithmes de Machine Learning (Développer en Python et R)
