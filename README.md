@@ -17,24 +17,21 @@ Bonjour, je m'appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML 
 - Contribution à la mise en place d'une culture data-driven en interne en formant les équipes aux outils d'IA et en démontrant leur valeur ajoutée.
 
 ### Stagiaire Statisticien, Société Vauché, Février 2024 - Juin 2024
-- Optimisation des Plans de Sondage : Conception et optimisation des plans de sondage pour estimer la qualité du tri des déchets recyclables tout en respectant les contraintes métier.
+##### Optimisation des Plans de Sondage : 
+Conception et optimisation des plans de sondage pour estimer la qualité du tri des déchets recyclables tout en respectant les contraintes métier.
+##### Tests de Performance et Échantillonnage :
+Réalisation de tests de performance et développement de méthodes d'échantillonnage pour garantir la précision et la fiabilité des processus de tri.
+##### Analyse de Données et Méthodes Statistiques : 
+Utilisation de bases de données et application de tests statistiques, simulations et intervalles de confiance pour analyser et améliorer la qualité du tri des déchets.
 
-- Tests de Performance et Échantillonnage : Réalisation de tests de performance et développement de méthodes d'échantillonnage pour garantir la précision et la fiabilité des processus de tri.
-
-- Analyse de Données et Méthodes Statistiques : Utilisation de bases de données et application de tests statistiques, simulations et intervalles de confiance pour analyser et améliorer la qualité du tri des déchets.
-
-- Développement en Python : Développement de scripts et d'outils en Python pour l'analyse des données et la simulation afin de soutenir les processus décisionnels.
-
-- Outils et Technologies :
-Bases de données
-
-Tests statistiques
-
-Simulations
-
-Intervalles de confiance
-
-Python
+##### Développement en Python :
+Développement de scripts et d'outils en Python pour l'analyse des données et la simulation afin de soutenir les processus décisionnels.
+##### Outils et Technologies :
+####### Bases de données
+####### Tests statistiques
+####### Simulations
+####### Intervalles de confiance
+####### Python
 
 ### Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
 - Construction d'un modèle de classification pour distinguer l'eau potable de l'eau non potable à
@@ -103,16 +100,14 @@ La régression logistique a permis une interprétation claire des variables infl
 Les techniques de rééquilibrage ont amélioré la robustesse des modèles sans compromettre la précision.  
 ## 🎓 Formation
 ### Master Ingénierie Statistiques Numériques (Data Science), Université de Lille, Depuis Septembre 2023
-###### Machine learning :
-###### Méthodes d’apprentissage :
+##### Machine learning :
+##### Méthodes d’apprentissage :
 Régression logistique, Forets aléatoires,SVM et Réseaux de Neurones
-###### Apprentissage autonome :
-
+##### Apprentissage autonome :
 Qlearning, Actor-Critic, Réseaux de Neurones, Pytorch
-###### Biostatistiques :
+##### Biostatistiques :
 Analyse de données omiques , censurées et spatiales en santé
-###### Outils informatiques pour les big data:
-
+##### Outils informatiques pour les big data:
 Programmation avancée, base de données et web, Virtualisation et conteneurisation (Docker)
 ### Licence de Mathématiques, Aix-Marseille Université, 2020 - 2021
 ### Licence de Mathématiques Physique et Informatique, Université Cheikh Anta Diop de Dakar, 2017 - 2020
