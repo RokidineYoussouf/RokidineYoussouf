@@ -63,52 +63,60 @@ Python
 - Modélisation d’un problème de transport d’une entreprise fictive basée en Angleterre et qui doit trouver
    le meilleur chemin pour répondre à la demande de ses clients à partir de ses usines et dépôts aux
    quantités de production et de stockage limités. (Développer en AMPL)
-- Modélisation Mathématique : Expertise dans l'utilisation d'AMPL pour modéliser des problèmes d'optimisation complexes.
-- Recherche Opérationnelle : Application de méthodes avancées pour résoudre des problèmes de planification industrielle.
-- Analyse de Données : Capacité à interpréter les données pour optimiser les processus de production et de maintenance.
-- Gestion de Projets : Compétences en gestion de projets impliquant plusieurs variables et contraintes.
-- Optimisation des Ressources : Expertise en optimisation des ressources pour maximiser les performances opérationnelles.
+ ##### Modélisation Mathématique :
+ Expertise dans l'utilisation d'AMPL pour modéliser des problèmes d'optimisation complexes.
+##### Recherche Opérationnelle :
+Application de méthodes avancées pour résoudre des problèmes de planification industrielle.
+##### Analyse de Données : 
+Capacité à interpréter les données pour optimiser les processus de production et de maintenance.
+##### Gestion de Projets : 
+Compétences en gestion de projets impliquant plusieurs variables et contraintes.
+##### Optimisation des Ressources :
+Expertise en optimisation des ressources pour maximiser les performances opérationnelles.
 ### **Classification de Logiciels Malveillants (Python, R) :**
 - L’objectif de ce projet consiste à développer un classifieur en utilisant une base de données de 4465
   individus évalués selon 241 variables. Au cours de cette étude, nous évaluerons et comparerons les
   performances de divers algorithmes de Machine Learning (Développer en Python et R)
-- Analyse Statistique Préliminaire : Nettoyage des données (suppression des valeurs manquantes et des doublons).
+##### Analyse Statistique Préliminaire :
+Nettoyage des données (suppression des valeurs manquantes et des doublons).
 Analyse des statistiques descriptives et des valeurs extrêmes.
 Identification des variables influentes et corrélations entre les variables.
 Mise en Œuvre des Algorithmes de Classification
-
-- Régression Logistique :
+##### Régression Logistique :
 K-plus Proches Voisins (KPP)
 Arbres Décisionnels et Forêts Aléatoires
 Support Vector Machine (SVM)
 Techniques de Bagging et Boosting
-- Optimisation et Validation :
+##### Optimisation et Validation :
 Utilisation de GridSearchCV pour optimiser les hyperparamètres.
 Validation croisée pour évaluer la robustesse des modèles.
 Comparaison des performances via les matrices de confusion et les courbes ROC.
-- Rééquilibrage des Classes :
+##### Rééquilibrage des Classes :
 Application des méthodes NearMiss et SMOTENC pour traiter le déséquilibre des classes.
 Évaluation des performances des modèles sur les données rééquilibrées.
-- Interprétation des Résultats :
+##### Interprétation des Résultats :
 Calcul des odds-ratios pour la régression logistique.
 Visualisation des arbres de décision et des variables influentes.
-- Résultats Clés : 
+##### Résultats Clés : 
 Les modèles de SVM et de forêts aléatoires ont obtenu les meilleures performances avec des erreurs de prédiction minimales et des AUC proches de 1.
 La régression logistique a permis une interprétation claire des variables influentes, bien que ses performances soient légèrement inférieures.
 Les techniques de rééquilibrage ont amélioré la robustesse des modèles sans compromettre la précision.  
 ## 🎓 Formation
 ### Master Ingénierie Statistiques Numériques (Data Science), Université de Lille, Depuis Septembre 2023
-- Machine learning :
-- Méthodes d’apprentissage :
+###### Machine learning :
+###### Méthodes d’apprentissage :
 Régression logistique, Forets aléatoires,SVM et Réseaux de Neurones
-- Apprentissage autonome :
+###### Apprentissage autonome :
+
 Qlearning, Actor-Critic, Réseaux de Neurones, Pytorch
-- Biostatistiques :
+###### Biostatistiques :
 Analyse de données omiques , censurées et spatiales en santé
-- Outils informatiques pour les big data:
+###### Outils informatiques pour les big data:
+
 Programmation avancée, base de données et web, Virtualisation et conteneurisation (Docker)
 ### Licence de Mathématiques, Aix-Marseille Université, 2020 - 2021
 ### Licence de Mathématiques Physique et Informatique, Université Cheikh Anta Diop de Dakar, 2017 - 2020
+### Baccalauréat Scientifique, Lycée d'Excellence Comores, De septembre 2016 à juillet 2017
 
 ## 📫 Contact
 
