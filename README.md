@@ -28,13 +28,9 @@ Bonjour, je m'appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML 
 - Outils et Technologies :
   
 Bases de données   
-
 Tests statistiques
-
 Simulations
-
 Intervalles de confiance
-
 Python
 
 ### Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
