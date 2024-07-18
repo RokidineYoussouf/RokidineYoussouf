@@ -93,7 +93,7 @@ Les modèles de SVM et de forêts aléatoires ont obtenu les meilleures performa
 La régression logistique a permis une interprétation claire des variables influentes, bien que ses performances soient légèrement inférieures.
 Les techniques de rééquilibrage ont amélioré la robustesse des modèles sans compromettre la précision.  
 ## 🎓 Formation
-###**Master Ingénierie Statistiques Numériques (Data Science), Université de Lille, Depuis Septembre 2023**
+###Master Ingénierie Statistiques Numériques (Data Science), Université de Lille, Depuis Septembre 2023
 - Machine learning :
 - Méthodes d’apprentissage :
 Régression logistique, Forets aléatoires,SVM et Réseaux de Neurones
@@ -103,8 +103,8 @@ Qlearning, Actor-Critic, Réseaux de Neurones, Pytorch
 Analyse de données omiques , censurées et spatiales en santé
 - Outils informatiques pour les big data:
 Programmation avancée, base de données et web, Virtualisation et conteneurisation (Docker)
-###**Licence de Mathématiques, Aix-Marseille Université, 2020 - 2021**
-###**Licence de Mathématiques Physique et Informatique, Université Cheikh Anta Diop de Dakar, 2017 - 2020**
+###Licence de Mathématiques, Aix-Marseille Université, 2020 - 2021
+###Licence de Mathématiques Physique et Informatique, Université Cheikh Anta Diop de Dakar, 2017 - 2020
 
 ## 📫 Contact
 
