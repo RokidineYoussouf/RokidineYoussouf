@@ -1,70 +1,54 @@
-# Roki-Dine Youssouf - Data Scientist / Data Analyste / Statisticien / AI/ML Engineer
+# 👋 Hello! I'm Roki-Dine Youssouf
 
-Bonjour, je m'appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML passionné avec plus de trois ans d'expérience.
+Passionate Data Scientist and AI/ML Engineer with over three years of experience. Specializing in machine learning, deep learning, natural language processing, and generative AI using large language models (LLM). Skilled in developing advanced statistical models and data-driven solutions to enhance business operations. Proficient in Python, R, SQL, SAS, and Big Data platforms.
 
-## 📝 Résumé
+## 🛠️ Skills
 
-Data Scientist expérimenté avec une expertise en apprentissage automatique, apprentissage profond, et IA générative utilisant de grands modèles de langage. Maîtrise des technologies Python, R, SQL, SAS et des plateformes Big Data.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-## 📚 Table des Matières
-1. [À propos de moi](#-à-propos-de-moi)
-2. [Expérience Professionnelle](#-expérience-professionnelle)
-3. [Compétences Techniques](#-compétences-techniques)
-4. [Projets](#-projets)
-5. [Formation](#-formation)
-6. [Contact](#-contact)
+## 🚀 Projects
 
-## 👋 À propos de moi
-👨‍💻 Ouvert aux opportunités dans le domaine de la science des données et IA. Expertise en déploiement de LLM, réglage fin des modèles et DevOps avancés.
+### [✨ Application de Gestion de Réservations (Java, SQL)](link_to_repository)
+- Developed a reservation management application using Java and SQL.
+- Implemented GUI with Swing/AWT and integrated a SQL database.
 
-## 🚀 Expérience Professionnelle
+### [✨ Optimisation de Transport Logistique (AMPL)](link_to_repository)
+- Modeled and solved a logistics optimization problem for a fictitious company.
+- Utilized AMPL for complex optimization tasks.
 
-### 📊 Data Scientist, Société Vauché (CDD), Depuis Juin 2024
-- **IA et Automatisation**: Implémentation de solutions d'IA pour améliorer les processus clés de l'entreprise.
-- **ChatGPT et Gemini 1.5**: Automatisation de tâches et optimisation des processus d'achats.
+### [✨ Classification de Logiciels Malveillants (Python, R)](link_to_repository)
+- Developed a classifier for malware detection using a dataset of 4465 samples and 241 features.
+- Applied various ML algorithms and compared their performance using ROC curves.
 
-### 📊 Stagiaire Statisticien, Société Vauché, Février 2024 - Juin 2024
-- **Plans de Sondage et Tests de Performance**: Optimisation des plans de sondage et réalisation de tests de performance.
+## 📊 Professional Experience
 
-### 📊 Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
-- **Modèle de Classification**: Développement d'un modèle pour distinguer l'eau potable de l'eau non potable.
+### Data Scientist (CDD) at Société Vauché, Since June 2024
+- Implemented AI solutions (ChatGPT and Gemini 1.5) for process improvement.
+- Automated tasks in the design office, improving efficiency with Gemini 1.5.
+- Optimized procurement processes with ChatGPT, saving time and enhancing partner selection.
 
-### 📊 Enseignant en Mathématiques, Aix Marseille Université, Septembre 2020 - Juin 2021
-- **Cours de soutien**: Enseignement des mathématiques à des collégiens et lycéens.
+### Statistician Intern at Société Vauché, Feb 2024 - Jun 2024
+- Designed and optimized survey plans for waste sorting quality estimation.
+- Conducted performance tests and sampling methods for accuracy and reliability.
 
-## 💻 Compétences Techniques
+## 🎓 Education
 
-- **Langages**: Python, R, C/C++, Java, VBA, AMPL
-- **Machine Learning**: Régression Logistique, Forêts Aléatoires, SVM, Réseaux de Neurones
-- **Deep Learning**: CNN, RNN, PyTorch
-- **Bases de données**: SQL, SQLite
-- **Autres**: Tests Statistiques, Simulations, Intervalles de Confiance, Bash, Latex, UML
+### Master in Data Science, Université de Lille, Since Sep 2023
+- Courses: Machine Learning, Deep Learning, Biostatistics, Big Data Tools, Docker.
 
-## 🔨 Projets
-
-### ✨ Application de Gestion de Réservations
-- **Technologies**: Java, SQL
-- **Description**: Conception d'une application de gestion des réservations de salles informatiques.
-
-### ✨ Optimisation de Transport Logistique
-- **Technologies**: AMPL
-- **Description**: Modélisation et optimisation des problèmes de transport d'une entreprise fictive.
-
-### ✨ Classification de Logiciels Malveillants
-- **Technologies**: Python, R
-- **Description**: Développement d'un classifieur de logiciels malveillants.
-
-## 🎓 Formation
-
-- **Master Ingénierie Statistiques Numériques (Data Science)**, Université de Lille, Depuis Septembre 2023
-- **Licence de Mathématiques**, Aix-Marseille Université, 2020 - 2021
-- **Licence de Mathématiques Physique et Informatique**, Université Cheikh Anta Diop de Dakar, 2017 - 2020
-- **Baccalauréat Scientifique**, Lycée d'Excellence Comores, 2016 - 2017
+### Bachelor's in Mathematics, Aix-Marseille Université, 2020 - 2021
 
 ## 📫 Contact
 
 - **Email**: youssouf.rokidine@gmail.com
-- **LinkedIn**: [linkedin.com/in/youssouf-roki-dine](www.linkedin.com/in/youssouf-roki-dine)
-- **GitHub**: [github.com/RokidineYoussouf](https://github.com/RokidineYoussouf)
+- **LinkedIn**: [www.linkedin.com/in/youssouf-roki-dine](https://www.linkedin.com/in/youssouf-roki-dine)
+- **GitHub**: [https://github.com/RokidineYoussouf](https://github.com/RokidineYoussouf)
 
-➡️ Enthousiaste à l'idée de rejoindre une équipe dynamique et de contribuer à des projets stimulants. N'hésitez pas à me contacter ! 😄
+➡️ Enthusiastic about joining a dynamic team and contributing to exciting projects. Feel free to reach out! 😄
